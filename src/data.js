@@ -260,9 +260,7 @@ export const EDUCATION = [
 
 // ── Achievements ──────────────────────────────────────────────────────────────
 export const ACHIEVEMENTS = [
-  { text: 'Head of Transport Team — DevDay 2023: Led logistics for 1000+ attendees',      icon: '🏆' },
   { text: "Co-Head of UI/UX Team — Procom 2023: Pakistan's largest tech festival",        icon: '🎨' },
   { text: 'Runner-Up — Database Competition, DevDay 2022',                                 icon: '🥈' },
   { text: 'Active Member — YRP Foundation (NGO), Pakistan',                                icon: '🤝' },
-  { text: 'Participant — Empowering Young Leaders (EYL) Program 2016',                    icon: '🌟' },
 ];
